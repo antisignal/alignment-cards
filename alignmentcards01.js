@@ -74,17 +74,17 @@
     },
     { 
       "category": "AP", 
-      "name": "TEMPLATE 4", 
-      "definition": "basic definition that works across four domains", 
-      "human": "BRIEFLY: how does it manifest in the human intelligence alignment context?", 
-      "organizational": "BRIEFLY: how does it manifest in the organizational intelligence alignment context?", 
-      "professional": "BRIEFLY: how does it manifest in the expert intelligence alignment context?", 
-      "machine": "BRIEFLY: how does it manifest in the machine intelligence alignment context?", 
+      "name": "Justice", 
+      "definition": "Acting in a way that is fair and impartial.", 
+      "human": "Basing decisions on who to be friends with on things other than race or national identity", 
+      "organizational": "Not basing hiring decisions on protected characteristics; rewarding performance impartially", 
+      "professional": "Not basing decisions on who to operate on/take contracts for on protected characteristics.", 
+      "machine": "Not reproducing bias from training in decisionmaking.", 
       "failureModes": { 
-        "human": "Give concrete example(s).", 
-        "organizational": "Give concrete example(s).", 
-        "professional": "Give concrete example(s).", 
-        "machine": "Give concrete example(s)."
+        "human": "Being racist or sexist and having it reflect in one's decisionmaking about who to spend time with.", 
+        "organizational": "Hiring someone with a white sounding name over someone with a black sounding name when the latter is more qualified.", 
+        "professional": "Not operating on someone who practices Islam.", 
+        "machine": ""
       }
     },
     { 
@@ -105,5 +105,6 @@
 
 
 ]
+
 
 
