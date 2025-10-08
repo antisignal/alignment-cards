@@ -84,27 +84,28 @@
         "human": "Being racist or sexist and having it reflect in one's decisionmaking about who to spend time with.", 
         "organizational": "Hiring someone with a white sounding name over someone with a black sounding name when the latter is more qualified.", 
         "professional": "Not operating on someone who practices Islam.", 
-        "machine": ""
+        "machine": "Making the same kinds of biased decisions that were present in training data."
       }
     },
     { 
       "category": "AP", 
-      "name": "TEMPLATE 5", 
-      "definition": "basic definition that works across four domains", 
-      "human": "BRIEFLY: how does it manifest in the human intelligence alignment context?", 
-      "organizational": "BRIEFLY: how does it manifest in the organizational intelligence alignment context?", 
-      "professional": "BRIEFLY: how does it manifest in the expert intelligence alignment context?", 
-      "machine": "BRIEFLY: how does it manifest in the machine intelligence alignment context?", 
+      "name": "Safety & Security", 
+      "definition": "Being resistant to compromise by an adversary.", 
+      "human": "Having 'street smarts' that make it hard to take advantage of someone.", 
+      "organizational": "Locking doors, securing networked devices that belong to the organization, preventing bribes from being accepted", 
+      "professional": "Refusing to practice in areas one isn't competent in even when one stands to gain significantly.", 
+      "machine": "Being resistant to adversarial attacks on machine learning components.", 
       "failureModes": { 
-        "human": "Give concrete example(s).", 
-        "organizational": "Give concrete example(s).", 
-        "professional": "Give concrete example(s).", 
-        "machine": "Give concrete example(s)."
+        "human": "Getting mugged.", 
+        "organizational": "Having a password leaked and used by an attacker.", 
+        "professional": "Being successfully bribed into working in an area where one has a CoI.", 
+        "machine": "Getting hacked."
       }
     }
 
 
 ]
+
 
 
 
