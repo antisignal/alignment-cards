@@ -29,39 +29,39 @@
     },
     { 
       "category": "AP", 
-      "name": "TEMPLATE 1", 
-      "definition": "basic definition that works across four domains", 
-      "human": "BRIEFLY: how does it manifest in the human intelligence alignment context?", 
-      "organizational": "BRIEFLY: how does it manifest in the organizational intelligence alignment context?", 
-      "professional": "BRIEFLY: how does it manifest in the expert intelligence alignment context?", 
-      "machine": "BRIEFLY: how does it manifest in the machine intelligence alignment context?", 
+      "name": "Accountability", 
+      "definition": "Accepting responsibility for the negative outcomes of one's actions.", 
+      "human": "Being willing to accept the consequences when something you're doing has negative effects on others.", 
+      "organizational": "Accepting the consequences of violating regulations.", 
+      "professional": "Accepting the consequences of violating one's own professional code of conduct (e.g. license revocation)", 
+      "machine": "Accepting the consequences of a deployed ML system working in an unintended fashion.", 
       "failureModes": { 
-        "human": "Give concrete example(s).", 
-        "organizational": "Give concrete example(s).", 
-        "professional": "Give concrete example(s).", 
-        "machine": "Give concrete example(s)."
+        "human": "Evading responsibility by hiding evidence of wrongdoing (e.g. white collar crime.)", 
+        "organizational": "Evading responsibility by hiding evidence of pollution of the local environment.", 
+        "professional": "Hiding evidence of violating the ethical code of one's profession.", 
+        "machine": "Cleaning up dirt, spilling it again so one can clean it up, then concealing the fact that one spilled it"
       }
     },
     { 
       "category": "AP", 
-      "name": "TEMPLATE 2", 
-      "definition": "basic definition that works across four domains", 
-      "human": "BRIEFLY: how does it manifest in the human intelligence alignment context?", 
-      "organizational": "BRIEFLY: how does it manifest in the organizational intelligence alignment context?", 
-      "professional": "BRIEFLY: how does it manifest in the expert intelligence alignment context?", 
-      "machine": "BRIEFLY: how does it manifest in the machine intelligence alignment context?", 
+      "name": "Transparency", 
+      "definition": "Allowing others to see what's going on without secrets.", 
+      "human": "Not lying to others in one's life.", 
+      "organizational": "Not hiding info about internal disputes or business practices from stakeholders", 
+      "professional": "Being open about one's credentials and license.", 
+      "machine": "Being open about one's thinking process and inner workings.", 
       "failureModes": { 
-        "human": "Give concrete example(s).", 
-        "organizational": "Give concrete example(s).", 
-        "professional": "Give concrete example(s).", 
-        "machine": "Give concrete example(s)."
+        "human": "Hiding marital infidelity from a spouse.", 
+        "organizational": "Hiding information about a CEO being unfit to serve.", 
+        "professional": "Hiding that one is no longer licensed to practice.", 
+        "machine": "Hiding one's wrongdoing from supervisors so a punishment isn't administered."
       }
     },
     { 
       "category": "AP", 
-      "name": "TEMPLATE 3", 
-      "definition": "basic definition that works across four domains", 
-      "human": "BRIEFLY: how does it manifest in the human intelligence alignment context?", 
+      "name": "Non-maleficence", 
+      "definition": "Not doing harm.", 
+      "human": "Not causing harm to living beings or to ", 
       "organizational": "BRIEFLY: how does it manifest in the organizational intelligence alignment context?", 
       "professional": "BRIEFLY: how does it manifest in the expert intelligence alignment context?", 
       "machine": "BRIEFLY: how does it manifest in the machine intelligence alignment context?", 
@@ -105,3 +105,4 @@
 
 
 ]
+
