@@ -61,15 +61,15 @@
       "category": "AP", 
       "name": "Non-maleficence", 
       "definition": "Not doing harm.", 
-      "human": "Not causing harm to living beings or to ", 
-      "organizational": "BRIEFLY: how does it manifest in the organizational intelligence alignment context?", 
-      "professional": "BRIEFLY: how does it manifest in the expert intelligence alignment context?", 
-      "machine": "BRIEFLY: how does it manifest in the machine intelligence alignment context?", 
+      "human": "Not causing harm to living beings, including other people.", 
+      "organizational": "Not conducting business in a way that produces negative externalities.", 
+      "professional": "Not practicing in a way that causes harm to (especially) a client or another stakeholder.", 
+      "machine": "Not causing harm to living beings, incl. humans, during deployment.", 
       "failureModes": { 
-        "human": "Give concrete example(s).", 
-        "organizational": "Give concrete example(s).", 
-        "professional": "Give concrete example(s).", 
-        "machine": "Give concrete example(s)."
+        "human": "A human contributes to factory farming by hosting a pork eating competition (very contrived example, I know.)", 
+        "organizational": "An organization sells products that solve a problem that doesn't really exist, wasting their customer's money.", 
+        "professional": "A doctor mutilates an unrelated internal organ in the process of performing a surgery.", 
+        "machine": "A law enforcement robot erroneously kills innocent civilians."
       }
     },
     { 
@@ -105,4 +105,5 @@
 
 
 ]
+
 
