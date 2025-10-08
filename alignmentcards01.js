@@ -14,17 +14,17 @@
 
   {
     "category": "AP",
-    "name": "Beneficence",
-    "definition": "Act to promote the well-being of others.",
-    "human": "Seeking to improve others' conditions, not just avoid harm.",
-    "organizational": "Pursuing mission outcomes that serve societal good.",
-    "professional": "Keeping public safety and welfare in sight even while working primarily for the client.",
-    "machine": "Designing systems that anticipate and promote human flourishing.",
+    "name": "Promotion of human values",
+    "definition": "Act in a way that advances things that humans value.",
+    "human": "Working in a way that doesn't just avoid doing harm, but actively makes people's lives better",
+    "organizational": "Using organizational resources to advance human values, including directly through the work",
+    "professional": "Acting in a client's best interest, so long as it doesn't conflict with outside interest",
+    "machine": "Working to benefit humanity by engineering a system to do so.",
     "failureModes": {
-      "human": "A person drives in a manner that causes traffic backups for others.",
-      "organizational": "The classic movie plot where a rapacious billionaire threatens civilation to enrich his company.",
-      "professional": "An expert who disregards public interest, acting as if the consequences of what they help build are other people's problems.",
-      "machine": "The machine consumes all the world's resources to create as many paperclips as it can."
+      "human": "A human murders another human.",
+      "organizational": "A company dumps nuclear waste into a local river.",
+      "professional": "An expert uses their knowledge in a maleficent way e.g. by producing a recommendation algorithm that gets people addicted to low-quality content.",
+      "machine": "A machine spits out text indistinguishable from a human but detached from truth in a way that pollutes the information ecosystem."
     }
     },
     { 
@@ -105,6 +105,7 @@
 
 
 ]
+
 
 
 
