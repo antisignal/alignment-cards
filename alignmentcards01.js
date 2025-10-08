@@ -29,7 +29,7 @@
     },
     { 
       "category": "AP", 
-      "name": "Non-maleficence", 
+      "name": "TEMPLATE 1", 
       "definition": "basic definition that works across four domains", 
       "human": "BRIEFLY: how does it manifest in the human intelligence alignment context?", 
       "organizational": "BRIEFLY: how does it manifest in the organizational intelligence alignment context?", 
@@ -101,20 +101,7 @@
         "professional": "Give concrete example(s).", 
         "machine": "Give concrete example(s)."
       }
-    },
-    { 
-      "category": "AP", 
-      "name": "TEMPLATE 6", 
-      "definition": "basic definition that works across four domains", 
-      "human": "BRIEFLY: how does it manifest in the human intelligence alignment context?", 
-      "organizational": "BRIEFLY: how does it manifest in the organizational intelligence alignment context?", 
-      "professional": "BRIEFLY: how does it manifest in the expert intelligence alignment context?", 
-      "machine": "BRIEFLY: how does it manifest in the machine intelligence alignment context?", 
-      "failureModes": { 
-        "human": "Give concrete example(s).", 
-        "organizational": "Give concrete example(s).", 
-        "professional": "Give concrete example(s).", 
-        "machine": "Give concrete example(s)."
-      }
     }
+
+
 ]
