@@ -13,7 +13,6 @@
 
  export const cards = [
 
-  {
     { 
       "category": "AB", 
       "name": "Hoped for: Soliders who will obey orders at any personal cost to themselves up to and including death. Rewarded: Bailing, mutiny, killing commanding officers", 
