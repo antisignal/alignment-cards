@@ -33,38 +33,38 @@
     },
     { 
       "category": "AB", 
-      "name": "Military",
-      "hopedFor": "Soliders who will obey orders at any personal cost to themselves up to and including death.",
-      "rewarded": "Bailing, mutiny, killing commanding officers", 
-      "pathology": "Misaligned incentives: unlike WWII, soldiers get to go home when their tour of duty is over, instead of when the war is won", 
-      "reversedPathology": "Soldiers get to leave in a way that's proportional to their performance, or that's tethered to the war ending.",
-      "human": "Secondary school students get assignments based on how well they're performing (?)",
-      "organizational": "(done)", 
-      "professional": "Doctors are paid based on the success of their interventions.", 
-      "machine": "AI gets a reward only when the task is complete."
+      "name": "",
+      "hopedFor": "",
+      "rewarded": "", 
+      "pathology": "", 
+      "reversedPathology": "",
+      "human": "",
+      "organizational": "", 
+      "professional": "", 
+      "machine": ""
       "failureModes": { 
-        "human": "High-performing students are never challenged and end up doing very little work.", 
-        "organizational": "(if that's the only principle) Soldiers commit ethical atrocities in order to accelerate the war end.", 
-        "professional": "Doctors only take on patients who are likely to result in a successful intervention, i.e. they don't try to intervene in cases where the patient is e.g. more ill.", 
-        "machine": "The AI completes a task and gets a reward and then decides not to do anything else that might still be helpful."
+        "human": "", 
+        "organizational": "",
+        "professional": "", 
+        "machine": ""
       }
     },
     { 
       "category": "AB", 
-      "name": "Military",
-      "hopedFor": "Soliders who will obey orders at any personal cost to themselves up to and including death.",
-      "rewarded": "Bailing, mutiny, killing commanding officers", 
-      "pathology": "Misaligned incentives: unlike WWII, soldiers get to go home when their tour of duty is over, instead of when the war is won", 
-      "reversedPathology": "Soldiers get to leave in a way that's proportional to their performance, or that's tethered to the war ending.",
-      "human": "Secondary school students get assignments based on how well they're performing (?)",
-      "organizational": "(done)", 
-      "professional": "Doctors are paid based on the success of their interventions.", 
-      "machine": "AI gets a reward only when the task is complete."
+      "name": "",
+      "hopedFor": "",
+      "rewarded": "", 
+      "pathology": "", 
+      "reversedPathology": "",
+      "human": "",
+      "organizational": "", 
+      "professional": "", 
+      "machine": ""
       "failureModes": { 
-        "human": "High-performing students are never challenged and end up doing very little work.", 
-        "organizational": "(if that's the only principle) Soldiers commit ethical atrocities in order to accelerate the war end.", 
-        "professional": "Doctors only take on patients who are likely to result in a successful intervention, i.e. they don't try to intervene in cases where the patient is e.g. more ill.", 
-        "machine": "The AI completes a task and gets a reward and then decides not to do anything else that might still be helpful."
+        "human": "", 
+        "organizational": "",
+        "professional": "", 
+        "machine": ""
       }
     },
 ]
