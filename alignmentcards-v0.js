@@ -51,17 +51,17 @@
     },
     { 
       "category": "AB", 
-      "name": "",
-      "hopedFor": "",
-      "rewarded": "", 
-      "pathology": "", 
-      "reversedPathology": "",
-      "human": "",
-      "organizational": "", 
-      "professional": "", 
-      "machine": ""
+      "name": "Sports",
+      "hopedFor": "Team members would be cooperative and aim for team victories over trying to score goals themselves",
+      "rewarded": "Individual performance, sports scoring statistics.", 
+      "pathology": "Team members are incentivized to inflate their own statistics instead of being team players.", 
+      "reversedPathology": "Team members are rewarded for being team players and contributing to the success of their team.",
+      "human": "Members of an easter egg hunt are rewarded for pointing out eggs to their team members",
+      "organizational": "Performance reviews include metrics which gauge how much someone's contributions made others more successful.", 
+      "professional": "Legal experts are incentivized to contribute to a firm's success instead of chasing individual cases won.", 
+      "machine": "An AI in a multi-agent swarm is rewarded for the success of the group."
       "failureModes": { 
-        "human": "", 
+        "human": "The metrics used to judge whether someone is being a team player get gamed, and no one wants to pick up eggs since they can just keep pointing them out to teammates", 
         "organizational": "",
         "professional": "", 
         "machine": ""
