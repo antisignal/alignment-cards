@@ -62,9 +62,9 @@
       "machine": "An AI in a multi-agent swarm is rewarded for the success of the group."
       "failureModes": { 
         "human": "The metrics used to judge whether someone is being a team player get gamed, and no one wants to pick up eggs since they can just keep pointing them out to teammates", 
-        "organizational": "",
-        "professional": "", 
-        "machine": ""
+        "organizational": "(as above)",
+        "professional": "Legal experts pursue individual case wins anyway because the incentives outside of the firm are too strong.", 
+        "machine": "The AI doesn't learn to contribute to the success of the group since it was trained with other swarm members that were scoring on their own."
       }
     },
 ]
