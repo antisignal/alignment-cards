@@ -105,5 +105,4 @@
         "machine": "Give concrete example(s)."
       }
     },
-  }
 ]
