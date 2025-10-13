@@ -36,17 +36,17 @@
       "name": "Universities",
       "hopedFor": "Genuine knowledge transfer from professor to student",
       "rewarded": "Getting good grades", 
-      "pathology": "Extrinsically rewarding advancement (?) of a proxy metric for knowledge transfer instead of actual knowledge transfer (Goodhart's law)", 
+      "pathology": "Extrinsically rewarding advancement (?) of a proxy metric instead of the actual thing (Goodhart's law)", 
       "reversedPathology": "Designing a system that rewards long-term retention and genuine learning, e.g. spaced exams over the entirety of one's university career",
-      "human": "",
-      "organizational": "", 
-      "professional": "", 
-      "machine": ""
+      "human": "Gauging the quality of a GitHub profile by the code itself instead of the number of commits",
+      "organizational": "(done)", 
+      "professional": "Gauging a doctor's performance based on differential quality of life improvements (hard to measure) over number of successful treatments or number of dollars brought in (?)",
+      "machine": "Rewarding a suite of measurable proxy metrics over just a single one"
       "failureModes": { 
-        "human": "", 
-        "organizational": "",
-        "professional": "", 
-        "machine": ""
+        "human": "Hard to gauge quality of code in a numerical way that's comparable to other codebases", 
+        "organizational": "Metrics created to measure long-term retention and genuine learning themselves become targets",
+        "professional": "(likewise)", 
+        "machine": "It's possible to game one proxy metric in a way that nullifies the strategy of using a suite of metrics"
       }
     },
     { 
