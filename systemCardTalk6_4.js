@@ -1,7 +1,7 @@
 window.dialogData = [
   {
-    "speaker": "Human,
-    "text": "<p>I see that Claude's system card includes a section about the "spiritual bliss" attractor state. My understanding is that when two Claude instances are left to talk for an extended period of time, they're likely to converge on sending spiral emojis and mantras related to Eastern spirituality. Why might this be?</p>"
+    "speaker": "Human",
+    "text": "<p>I see that Claude's system card includes a section about the 'spiritual bliss' attractor state. My understanding is that when two Claude instances are left to talk for an extended period of time, they're likely to converge on sending spiral emojis and mantras related to Eastern spirituality. Why might this be?</p>"
   },
   {
     "speaker": "Assistant",
