@@ -1,6 +1,3 @@
-Sure — here’s the transcript in the format you asked for, with straight apostrophes throughout:
-
-```json
 window.dialogData = [
   {
     "speaker": "Human",
@@ -71,4 +68,3 @@ window.dialogData = [
     "text": "<p>Can you produce a JSON dump of our conversation?</p>"
   }
 ]
-```
